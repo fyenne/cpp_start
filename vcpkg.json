@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "cxxopts",
+        "fmt",
+        "range-v3",
+        "boost-regex",
+        "boost-system"
+    ]
+}
